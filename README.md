@@ -1,5 +1,7 @@
 How to run the code 
+
 Steps
+
 Register as an admin with details name, email address, password and confirm the password and then select admin.
 Then you will be taken to the login section where you will have to enter your email address and password and enter.
 You will be taken to the dashboard (home page) where you will be able to see any new information, payments, orders and log-in information entered by a customer. 
